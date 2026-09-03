@@ -1,0 +1,3380 @@
+hamaca : 3
+aparece bastante la a en esta cadena : 9
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+oximoron : 1
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+abracadabra : 5
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
+por poco y no aparecen ps por esta pantalla p : 7
